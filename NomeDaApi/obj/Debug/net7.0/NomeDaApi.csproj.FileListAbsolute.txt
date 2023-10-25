@@ -1,0 +1,14 @@
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.csproj.AssemblyReference.cache
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.AssemblyInfoInputs.cache
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.AssemblyInfo.cs
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.csproj.CoreCompileInputs.cache
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\temporario\NomeDaApi\obj\Debug\net7.0\NomeDaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.csproj.AssemblyReference.cache
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.AssemblyInfoInputs.cache
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.AssemblyInfo.cs
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.csproj.CoreCompileInputs.cache
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\temporario\Documents\ozeias moreira\NomeDaApi\obj\Debug\net7.0\NomeDaApi.MvcApplicationPartsAssemblyInfo.cache
